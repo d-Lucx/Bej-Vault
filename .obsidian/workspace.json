@@ -30,7 +30,7 @@
               "type": "markdown",
               "state": {
                 "file": "04_System & Tooling/AI Agent Office - Bej Orchestration Guide.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -218,15 +218,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b572e0bb97f0104",
+  "active": "82734ca8f7896255",
   "lastOpenFiles": [
+    "04_System & Tooling/Templates/Study_Note_Template.md",
+    "04_System & Tooling/AI Agent Office - Bej Orchestration Guide.md",
     "01_Projects & Sprints/Game-Like AI Team UI.md",
     "01_Projects & Sprints/Project - Luto App.md",
     "Home.md",
     "03_Knowledge Vault/Language_Learning_System.md",
     "03_Knowledge Vault/Speaking_And_Interview_Playbook.md",
     "03_Knowledge Vault/Prompt_Library_Hub.md",
-    "04_System & Tooling/Templates/Study_Note_Template.md",
     "04_System & Tooling/Templates",
     "03_Knowledge Vault/REA - Reverse Engineer Anything.md",
     "03_Knowledge Vault/Pasted image 20261020020826.png",
