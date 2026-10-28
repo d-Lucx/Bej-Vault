@@ -43,7 +43,7 @@ updated: 2026-10-20
 ## 🔥 Priority 1: Career & Portfolio Sprint
 - [ ] **Portfolio Website (`Portfolio-2`):** Finalize updates, polish UI, and deploy.
 - [ ] **LinkedIn & Resume/CV Overhaul:**
-	- [ ] Update *Experience* & *Education*
+	- [x] Update *Experience* & *Education*
 	- [ ] Add latest *Projects* & *Project Management* wins (Provide video demo for every project)
 	- [ ] Update *Honors & Awards*, *Organizations*, and *Languages*
 - [ ] **Inspiration Audit:** Review top dev portfolios & GitHub repos for architecture/UI ideas.
@@ -64,7 +64,7 @@ updated: 2026-10-20
 - [ ] **TourneyForge** — Audit remaining tasks
 
 ### 🧪 Backlog & New System Builds
-- [ ] **Central Discord Server** — Set up channels for all bots, webhooks, and workflow centralization
+- [x] **Central Discord Server** — Set up channels for all bots, webhooks, and workflow centralization
 - [ ] **AI Usage & Git Deployment Tracker** — Build unified dashboard for token/API usage & repo status
 - [ ] **Open-Source AI Team** — Implement multi-agent workflow using Antigravity
 - [ ] **Asay App** — Initial scoping & architecture
@@ -110,7 +110,7 @@ updated: 2026-10-20
 ## 🧠 Priority 4: Learning & Knowledge Hubs
 
 ### 🤖 AI Agents & Automation
-- [ ] Study [Claude Academy](https://academy.claude.com/) 
+- [x] Study [Claude Academy](https://academy.claude.com/) 
 - [ ] GitHub AI/ML repos
 - [ ] Curate master link list of **Agent Skills** and **MCP Servers**
 - [ ] **Agent Architecture Blueprints to Map:**
@@ -121,6 +121,8 @@ updated: 2026-10-20
 	- [ ] HR Onboarding Agent
 - [ ] **Claude Skills Library:** Explore & install `SKILL.md` workflows from [skillsclau.de](https://skillsclau.de/)
 - [ ] **Prompt Engineering Library:** Build categorized prompt database ([[Prompt_Library_Hub]])
+- [ ] **Docker**
+- [ ] **Kaggle** for Machine Learning
 
 ### ☁️ Cloud, Security & Other Skills
 - [ ] **AWS Fast-Track:** Clip resources from [AWS Certs](https://aws.amazon.com/certification/), [Skill Builder](https://educationprograms.skillbuilder.aws/), and [AWS Educate](https://www.awseducate.com/student/s/content) into `03_Knowledge Vault/AWS` $\rightarrow$ Use Obsidian AI to generate quizzes & summaries.
