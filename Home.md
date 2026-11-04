@@ -68,7 +68,7 @@ updated: 2026-10-20
 - [ ] **AI Usage & Git Deployment Tracker** — Build unified dashboard for token/API usage & repo status
 - [ ] **Open-Source AI Team** — Implement multi-agent workflow using Antigravity
 - [ ] **Asay App** — Initial scoping & architecture
-- [ ] **AI Desktop Assistant** — Fun side-build experiment
+- [ ] **AI Desktop Assistant** — Fun side-build experiment, a standard secretary but on your desktop, similar to pets on codex. Give it a voice (pretrained).
 - [ ] **Luto App** — Recipe & cooking platform ([[Project - Luto App]])
 - [ ] **Deployment & AI Usage Tracker** — Build **App-first with push notifications** ([[Project - Deployment Tracker]])
 - [ ] [[Game-Like AI Team UI]] — Multi-agent workflow visualizer (pixel/game aesthetics showing agent interactions) + Discord Chat integration
