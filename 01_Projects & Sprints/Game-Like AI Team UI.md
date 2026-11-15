@@ -81,3 +81,4 @@ Following the slide rule to **begin with one workflow, then expand**:
   - Add A* pathfinding (`easystarjs`) so Agent A walks to Agent B's desk during a `HANDOFF` event.
   - Add Discord button interactions (`Approve` / `Reject`) for critical tasks.
 - [ ] Phase 4: Coding Team & Video Editing Team
+- [ ] Phase 5: Vault Cleaner (Formats the Obsidian Vault)

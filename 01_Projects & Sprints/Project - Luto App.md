@@ -12,10 +12,14 @@ tags: [repo/applications, status/planning]
 - [ ] **Ingredients:** Dynamic scaling (servings calculator) + unit converter
 - [ ] **Techniques / Skills:** Tagging culinary skills required (e.g., knife cuts, sautéing, emulsifying)
 - [ ] **Rating System:** User ratings, difficulty score, and review notes
+- [ ] Nutritional value per serving
+- [ ] Alternative ingredients if not available for the user
+- [ ] "Lu2" logo minimalist design.
 
 ## 🎨 UI/UX Non-Negotiables
 - [ ] Design **Empty States** (e.g., "No saved recipes yet—explore trending dishes!")
 - [ ] Add **No-Data Value Placeholders** (skeleton loaders, fallback recipe images, missing nutritional value badges)
+- [ ] App design inspiration, make it feel like the user is using a cookbook.
 
 
 ## App Testing

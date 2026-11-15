@@ -41,11 +41,11 @@ updated: 2026-10-20
 ---
 
 ## 🔥 Priority 1: Career & Portfolio Sprint
-- [ ] **Portfolio Website (`Portfolio-2`):** Finalize updates, polish UI, and deploy.
-- [ ] **LinkedIn & Resume/CV Overhaul:**
+- [x] **Portfolio Website (`Portfolio-2`):** Finalize updates, polish UI, and deploy.
+- [x] **LinkedIn & Resume/CV Overhaul:**
 	- [x] Update *Experience* & *Education*
 	- [ ] Add latest *Projects* & *Project Management* wins (Provide video demo for every project)
-	- [ ] Update *Honors & Awards*, *Organizations*, and *Languages*
+	- [x] Update *Honors & Awards*, *Organizations*, and *Languages*
 - [ ] **Inspiration Audit:** Review top dev portfolios & GitHub repos for architecture/UI ideas.
 
 ---
@@ -65,7 +65,7 @@ updated: 2026-10-20
 
 ### 🧪 Backlog & New System Builds
 - [x] **Central Discord Server** — Set up channels for all bots, webhooks, and workflow centralization
-- [ ] **AI Usage & Git Deployment Tracker** — Build unified dashboard for token/API usage & repo status
+- [x] **AI Usage & Git Deployment Tracker** — Build unified dashboard for token/API usage & repo status
 - [ ] **Open-Source AI Team** — Implement multi-agent workflow using Antigravity
 - [ ] **Asay App** — Initial scoping & architecture
 - [ ] **AI Desktop Assistant** — Fun side-build experiment, a standard secretary but on your desktop, similar to pets on codex. Give it a voice (pretrained).

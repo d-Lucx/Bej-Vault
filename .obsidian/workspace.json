@@ -55,10 +55,14 @@
             "id": "8d920b9bd7acca2c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "01_Projects & Sprints/Project - Luto App.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project - Luto App"
             }
           }
         ],
@@ -244,6 +248,11 @@
   },
   "active": "8d920b9bd7acca2c",
   "lastOpenFiles": [
+    "01_Projects & Sprints/Game-Like AI Team UI.md",
+    "Bej Plans/2026-11-15-96325ac2e3.md",
+    "Bej Plans/2026-11-16-2e1d00b349.md",
+    "Bej Plans/2026-11-16-1f1c3aa643.md",
+    "Bej Plans",
     "01_Projects & Sprints/llm-council-skill but a AI Agent research team.md",
     "01_Projects & Sprints/OmniPoint user manual.md",
     "04_System & Tooling/Skills.md",
@@ -262,7 +271,6 @@
     "04_System & Tooling/Templates/Study_Note_Template.md",
     "04_System & Tooling/🚀 REA Installation & Agent Integration.md",
     "01_Projects & Sprints/Project - Luto App.md",
-    "01_Projects & Sprints/Game-Like AI Team UI.md",
     "00_Inbox & Mindset/Untitled.md",
     "04_System & Tooling/Templates",
     "04_System & Tooling",
@@ -274,11 +282,9 @@
     "04_System & Tooling",
     "03_Knowledge Vault",
     "02_Ventures & Content Engine",
-    "01_Projects & Sprints",
     "Projects/Agents.md",
     "Projects/Personal Productivity Audit.md",
     "Notes/General.md",
-    "Welcome.md",
-    "create a link.md"
+    "Welcome.md"
   ]
 }
