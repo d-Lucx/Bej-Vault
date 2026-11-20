@@ -6,7 +6,7 @@ Select a theme design for the office, make it 3D. ()
 
 Bej (Personal Assistant, Exists on Discord, Desktop Assistant similar to pets) - Acts as my personal assistant
 
-Idea -> Research and Plan -> Grill-me for the functions -> Develop UI -> Create the app/website -> Test -> QA -> Improve
+Idea -> Research and Plan -> Grill-me for the functions -> Develop Design first then UI/UX -> Create the app/website -> Test -> QA -> Improve
 Test as we develop to have less bugs. Test after integrating everything. Have a QA and UI/UX test when app is done. Privacy and Policy, Terms of use and copyright.
 
 

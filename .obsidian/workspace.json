@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Projects & Sprints/Project - Luto App.md",
-                "mode": "source",
+                "file": "01_Projects & Sprints/Sources & Resources.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project - Luto App"
+              "title": "Sources & Resources"
             }
           }
         ],
@@ -249,28 +249,32 @@
   "active": "8d920b9bd7acca2c",
   "lastOpenFiles": [
     "01_Projects & Sprints/Game-Like AI Team UI.md",
+    "01_Projects & Sprints/Sources & Resources.md",
+    "01_Projects & Sprints/Design Inspirations.md",
+    "01_Projects & Sprints/llm-council-skill but a AI Agent research team.md",
+    "02_Ventures & Content/What to Build.md",
+    "03_Knowledge Vault/Workflows and Automations.md",
+    "03_Knowledge Vault/Speaking_And_Interview_Playbook.md",
+    "03_Knowledge Vault/REA - Reverse Engineer Anything.md",
+    "03_Knowledge Vault/Prompt_Library_Hub.md",
+    "03_Knowledge Vault/Pasted image 20261020020838.png",
+    "03_Knowledge Vault/Pasted image 20261020020826.png",
+    "03_Knowledge Vault/OmniPoint (All-in-one POS System).md",
+    "03_Knowledge Vault/Language_Learning_System.md",
+    "03_Knowledge Vault/AI Office Structure.md",
+    "01_Projects & Sprints/Project - Luto App.md",
+    "01_Projects & Sprints/OmniPoint user manual.md",
+    "04_System & Tooling/Templates/Study_Note_Template.md",
+    "04_System & Tooling/AI Agent Office - Bej Orchestration Guide.md",
+    "04_System & Tooling/REA Installation & Agent Integration.md",
+    "04_System & Tooling/Skills.md",
+    "01_Projects & Sprints/Portfolio Inspirations.md",
     "Bej Plans/2026-11-15-96325ac2e3.md",
     "Bej Plans/2026-11-16-2e1d00b349.md",
     "Bej Plans/2026-11-16-1f1c3aa643.md",
     "Bej Plans",
-    "01_Projects & Sprints/llm-council-skill but a AI Agent research team.md",
-    "01_Projects & Sprints/OmniPoint user manual.md",
-    "04_System & Tooling/Skills.md",
-    "03_Knowledge Vault/OmniPoint (All-in-one POS System).md",
-    "02_Ventures & Content/Untitled.md",
-    "03_Knowledge Vault/Workflows and Automations.md",
-    "03_Knowledge Vault/Language_Learning_System.md",
-    "03_Knowledge Vault/Speaking_And_Interview_Playbook.md",
     "Home.md",
-    "03_Knowledge Vault/Prompt_Library_Hub.md",
-    "03_Knowledge Vault/REA - Reverse Engineer Anything.md",
-    "03_Knowledge Vault/Pasted image 20261020020838.png",
-    "03_Knowledge Vault/Pasted image 20261020020826.png",
-    "04_System & Tooling/REA Installation & Agent Integration.md",
-    "04_System & Tooling/AI Agent Office - Bej Orchestration Guide.md",
-    "04_System & Tooling/Templates/Study_Note_Template.md",
     "04_System & Tooling/🚀 REA Installation & Agent Integration.md",
-    "01_Projects & Sprints/Project - Luto App.md",
     "00_Inbox & Mindset/Untitled.md",
     "04_System & Tooling/Templates",
     "04_System & Tooling",
@@ -281,10 +285,6 @@
     "Video Editing With Claude.md",
     "04_System & Tooling",
     "03_Knowledge Vault",
-    "02_Ventures & Content Engine",
-    "Projects/Agents.md",
-    "Projects/Personal Productivity Audit.md",
-    "Notes/General.md",
-    "Welcome.md"
+    "02_Ventures & Content Engine"
   ]
 }
