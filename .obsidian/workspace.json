@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Projects & Sprints/Sources & Resources.md",
+                "file": "03_Knowledge Vault/Sources & Resources.md",
                 "mode": "preview",
                 "source": false
               },
@@ -246,10 +246,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d920b9bd7acca2c",
+  "active": "139bc4dd394be244",
   "lastOpenFiles": [
     "01_Projects & Sprints/Game-Like AI Team UI.md",
-    "01_Projects & Sprints/Sources & Resources.md",
+    "03_Knowledge Vault/Sources & Resources.md",
     "01_Projects & Sprints/Design Inspirations.md",
     "01_Projects & Sprints/llm-council-skill but a AI Agent research team.md",
     "02_Ventures & Content/What to Build.md",
