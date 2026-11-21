@@ -58,7 +58,7 @@
               "type": "markdown",
               "state": {
                 "file": "03_Knowledge Vault/Sources & Resources.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -246,10 +246,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "139bc4dd394be244",
+  "active": "8d920b9bd7acca2c",
   "lastOpenFiles": [
-    "01_Projects & Sprints/Game-Like AI Team UI.md",
+    "03_Knowledge Vault/Language_Learning_System.md",
+    "03_Knowledge Vault/AI Office Structure.md",
+    "04_System & Tooling/Templates/Study_Note_Template.md",
+    "01_Projects & Sprints/3D Print of a City.md",
+    "00_Inbox & Mindset/Untitled.md",
     "03_Knowledge Vault/Sources & Resources.md",
+    "01_Projects & Sprints/Game-Like AI Team UI.md",
     "01_Projects & Sprints/Design Inspirations.md",
     "01_Projects & Sprints/llm-council-skill but a AI Agent research team.md",
     "02_Ventures & Content/What to Build.md",
@@ -260,11 +265,8 @@
     "03_Knowledge Vault/Pasted image 20261020020838.png",
     "03_Knowledge Vault/Pasted image 20261020020826.png",
     "03_Knowledge Vault/OmniPoint (All-in-one POS System).md",
-    "03_Knowledge Vault/Language_Learning_System.md",
-    "03_Knowledge Vault/AI Office Structure.md",
     "01_Projects & Sprints/Project - Luto App.md",
     "01_Projects & Sprints/OmniPoint user manual.md",
-    "04_System & Tooling/Templates/Study_Note_Template.md",
     "04_System & Tooling/AI Agent Office - Bej Orchestration Guide.md",
     "04_System & Tooling/REA Installation & Agent Integration.md",
     "04_System & Tooling/Skills.md",
@@ -275,14 +277,12 @@
     "Bej Plans",
     "Home.md",
     "04_System & Tooling/🚀 REA Installation & Agent Integration.md",
-    "00_Inbox & Mindset/Untitled.md",
     "04_System & Tooling/Templates",
     "04_System & Tooling",
     "03_Knowledge Vault",
     "02_Ventures & Content",
     "01_Projects & Sprints",
     "00_Inbox & Mindset",
-    "Video Editing With Claude.md",
     "04_System & Tooling",
     "03_Knowledge Vault",
     "02_Ventures & Content Engine"
