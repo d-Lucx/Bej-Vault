@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Knowledge Vault/00_Sources & Resources.md",
+                "file": "02_Ventures & Content/What to Build.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00_Sources & Resources"
+              "title": "What to Build"
             }
           }
         ],
@@ -248,10 +248,10 @@
   },
   "active": "8d920b9bd7acca2c",
   "lastOpenFiles": [
+    "03_Knowledge Vault/00_Sources & Resources.md",
     "03_Knowledge Vault/Workflows and Automations.md",
     "03_Knowledge Vault/AI Office Structure.md",
     "02_Ventures & Content/What to Build.md",
-    "03_Knowledge Vault/00_Sources & Resources.md",
     "03_Knowledge Vault/Language_Learning_System.md",
     "04_System & Tooling/Templates/Study_Note_Template.md",
     "01_Projects & Sprints/3D Print of a City.md",
