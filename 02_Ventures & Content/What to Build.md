@@ -67,3 +67,15 @@ Document every decision.
 Most people import libraries.
 
 Builders understand what happens underneath.
+
+# Personal Ideas
+
+- "Rate my App/System" App/Benchmark based on functionality, usefulness, creativity, slop, marketability, are there pre existing (if so what edge does your app/system have against it) and etc.
+
+- Readme file template based on famous/starred git repo
+
+- n8n problem solving skills, improve yourself by asking ai for scenarios and do it on n8n. we can create an employee for this with automated checking.
+
+- Farm to Consumers system
+  
+- AI Skill Creator
